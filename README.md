@@ -72,6 +72,8 @@ This enables HR teams to take data-driven decisions for retention, salary planni
 
 
 
-### Author**Muthyam Reddy**  
+
+### Author
+Muthyam Reddy  
 Aspiring Power BI Analyst | Data Enthusiast  
 Email - muthyamreddy282@gmail.com
